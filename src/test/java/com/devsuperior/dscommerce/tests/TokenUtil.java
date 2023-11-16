@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce.util;
+package com.devsuperior.dscommerce.tests;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.json.JacksonJsonParser;
